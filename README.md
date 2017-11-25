@@ -28,10 +28,13 @@ EXECUTING MENU
 START HONEYPOT + DETECTOR
 ---------------------------
 Open terminal in 'tools/detector'
+
 Execute: sh detector.sh a
 
 Open new terminal in 'tools/analyzer'
+
 Execute: python logger.py
+
  Now wait for attackers :)
 
 
