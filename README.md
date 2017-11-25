@@ -2,6 +2,8 @@
 
 With this tool you can block HTTP Flood Attacks and analyze them with a honeypot.
 
+THE TOOL SEND YOU AN ADVERTISING EMAIL AFTER DETECT A DDOS ATTACK!
+
 
 First start the honeypot server (tools/analyze/logger.py).
 
